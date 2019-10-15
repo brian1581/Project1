@@ -16,6 +16,7 @@ KEY THINGS TO EXPLORE
             What percentage of listings specify senior vs junior? And specific key titles?
             Senior vs. Junior
             Scientist, Analyst, Engineer, Developer, Specialist
+            Full time vs. Part time            
     
     4.  Benefits
             What type of benefits are most frequently mentioned?
@@ -29,8 +30,6 @@ KEY THINGS TO EXPLORE
             
 ACTION PLAN
 
-    * Jules is going to look further into Indeed API to see if we can use their data.
-    
     Monday 10/14 - Initial exploration and setting up Jupyter notebook.
         On our own - Continue trying to set up Jupyter notebook. Begin exploring data.
         
@@ -45,5 +44,10 @@ ACTION PLAN
     Tuesday 10/22 - Finalize and run through presentation.
     
     Wednesday 10/23 - Presentation
+    
+ 
+OTHER NOTES
+
+    - If we're in need of another data source, we might want consider using https://developer.usajobs.gov/General
         
     
