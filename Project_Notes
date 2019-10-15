@@ -1,0 +1,49 @@
+Project Notes
+
+Monday, October 14
+
+KEY THINGS TO EXPLORE
+
+    1.  Location (Google Maps)
+            Where are the jobs located?
+            Heat Maps
+            
+    2.  Remote vs. On Location
+            What's the distribution of remote listings vs. on location?
+            Average age of posted positions.
+        
+    3.  Titles
+            What percentage of listings specify senior vs junior? And specific key titles?
+            Senior vs. Junior
+            Scientist, Analyst, Engineer, Developer, Specialist
+    
+    4.  Benefits
+            What type of benefits are most frequently mentioned?
+            Child care, stock options, etc.
+        
+    5.  Requirements
+            What type of requirements are most frequently mentioned?
+            What key things (i.e. degree) are mentioned, but might not be required?
+            Mentions a degree
+            Doesn't mention a degree
+            
+ACTION PLAN
+
+    * Jules is going to look further into Indeed API to see if we can use their data.
+    
+    Monday 10/14 - Initial exploration and setting up Jupyter notebook.
+        On our own - Continue trying to set up Jupyter notebook. Begin exploring data.
+        
+    Wednesday 10/16 - Ensure everyone is set up properly on Jupyter notebook.
+        On our own - Begin analyzing data and try to start gaining insights for the "Key Things to Explore"
+        
+    Saturday 10/19 - Work on analysis. Create a more specified action plan assigning duties.
+        On our own - Work on our own parts of the action plan.
+        
+    Monday 10/21 - Finalize project. Work on presentation.
+    
+    Tuesday 10/22 - Finalize and run through presentation.
+    
+    Wednesday 10/23 - Presentation
+        
+    
