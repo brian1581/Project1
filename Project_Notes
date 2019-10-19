@@ -2,11 +2,11 @@ Project Notes
 
 Monday, October 14
 
-KEY THINGS TO EXPLORE
+KEY THINGS TO EXPLORE:
 
     1.  Location (Google Maps)
             Where are the jobs located?
-            Heat Maps
+                Heat Maps
             
     2.  Remote vs. On Location
             What's the distribution of remote listings vs. on location?
@@ -18,6 +18,8 @@ KEY THINGS TO EXPLORE
             Scientist, Analyst, Engineer, Developer, Specialist
             Full time vs. Part time            
     
+WOULD BE NICE TO HAVE:
+
     4.  Benefits
             What type of benefits are most frequently mentioned?
             Child care, stock options, etc.
@@ -34,12 +36,16 @@ ACTION PLAN
         On our own - Continue trying to set up Jupyter notebook. Begin exploring data.
         
     Wednesday 10/16 - Ensure everyone is set up properly on Jupyter notebook.
-        On our own - Begin analyzing data and try to start gaining insights for the "Key Things to Explore"
+        Brian - explore cleaning titles and grouping 
+        Michelle - explore cleaning locations and mapping
+        Sam - general data cleansing
+                
+   Saturday 10/19 - Work on analysis. Create a more specified action plan assigning duties.
+        Brian - clean and group by titles
+        Michelle - set up heat maps
+        Sam - clean locations
         
-    Saturday 10/19 - Work on analysis. Create a more specified action plan assigning duties.
-        On our own - Work on our own parts of the action plan.
-        
-    Monday 10/21 - Finalize project. Work on presentation.
+    Monday 10/21 - Consolidate code and finalize project. Work on presentation.
     
     Tuesday 10/22 - Finalize and run through presentation.
     
